@@ -1,0 +1,49 @@
+{
+	"basics":{
+        "name":"PRIYANKA",
+        "role":"software",
+        "mobile":"+91 8998899889",
+        "email":"priyankareddykikkuru@gmail.com"
+	},
+
+  "career":{
+  	"info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+  
+},
+"education":[
+{
+  "degree":"B-Tech(Computer science and technology)",
+  "institute":"vignan nirula",
+  "data":["2016-2020","85%"]
+},
+
+{
+  "degree":"diploma(CHE)",
+  "institute":"SUVR & SR",
+  "data":["2014-2017","85%"]
+},
+{
+  "degree":"S.S.C",
+  "institute":"Indian Springs",
+  "data":["2014","85%"]
+}
+],
+"skills":[
+{
+  "title":"Programming Languages",
+  "content":["Python","C","Java","R","C++"]
+},
+{
+  "title":"Data Base",
+  "content":["SQL","Oracle","Mysql"]
+},
+{
+  "title":"Web Technologies ",
+  "content":["HTML","XML","JavaScript","CSS"]
+},
+{
+  "title":"Operating System",
+  "content":["Windows","Unix","Linux"]
+}
+]
+}
